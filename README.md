@@ -2,5 +2,8 @@
 ## I'm ashhad, from BAI-1B.  
 - *I do not have a clue on my future.*  
 - **Im a bit adapt at python.**  
-- ~~Currently learning C.~~  
+- ~~Currently learning C.~~
+1. a
+2. b
+3. c
 
