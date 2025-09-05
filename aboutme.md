@@ -1,3 +1,3 @@
-my name is ashhad
-degree is AI
-hobby....I don't have one
+my name is ashhad.  
+degree is AI.  
+hobby....I don't have one.  
